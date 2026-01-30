@@ -1,0 +1,7 @@
+Arduino 1 (transmitter)
+
+
+Arduino 2 (reciever)
+
+1401 Er reciver
+1101 Er transmitter
